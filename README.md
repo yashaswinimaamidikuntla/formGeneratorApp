@@ -1,4 +1,4 @@
-Here’s a detailed `README.md` file for your dynamic form generator project. This includes a description of the project, the logic, setup instructions, and usage details.
+Here’s a detailed `README.md` file for dynamic form generator project. This includes a description of the project, the logic, setup instructions, and usage details.
 
 ---
 
